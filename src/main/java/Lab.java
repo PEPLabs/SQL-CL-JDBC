@@ -33,6 +33,8 @@ import util.ConnectionUtil;
  *                  - retrieve all songs from our database table
  *
  * If this is your first time working with JDBC, I recommend reading through the JDBCWalkthrough file that displays how to use JDBC for a similar scenario.
+ *
+ * NOTE: Please write the SQL statement on a single line (do not use multi-line formatting).
  */
 public class Lab {
 
